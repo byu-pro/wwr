@@ -243,7 +243,7 @@ img {
     body
     {
     overflow-x:hidden;
-    font-family:'PT Sans', sans-serif;
+    font-family:'Noto Sans', sans-serif;
     }
     .section-container
     {
@@ -262,10 +262,11 @@ img {
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
+    width: 0;
     }
     .section-container .columns.content .content-container
     {
-    padding:40px 50px;
+    padding:120px 120px;
     }
     .section-container .columns.content .content-container h5
     {
